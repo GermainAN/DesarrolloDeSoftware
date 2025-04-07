@@ -179,10 +179,13 @@ $ git branch -d feature/new-feature
 **Preguntas**
 
 - ¿Cómo te ha ayudado Git a mantener un historial claro y organizado de tus cambios?
+Git me ha ayudado a mantener un historial claro y organizado al registrar cada cambio que realizo en el proyecto con mensajes descriptivos. Esto me permite entender la evolución del código, identificar cuándo se introdujo un error, y revertir fácilmente a versiones anteriores si es necesario. Además, me permite trabajar con confianza sabiendo que siempre puedo volver a un punto estable del proyecto.
 - ¿Qué beneficios ves en el uso de ramas para desarrollar nuevas características o corregir errores?
+El uso de ramas me ha resultado muy útil para trabajar de manera aislada en nuevas funcionalidades o correcciones sin afectar el código principal. Esto facilita la organización del desarrollo, permite trabajar en paralelo con otros colaboradores, y reduce el riesgo de introducir errores en la rama principal. Una vez que la nueva característica o corrección está lista y probada, se puede integrar fácilmente al proyecto principal mediante un merge.
 - Realiza una revisión final del historial de commits para asegurarte de que todos los cambios se han registrado correctamente.
+![image.png](imagen2.png)
 - Revisa el uso de ramas y merges para ver cómo Git maneja múltiples líneas de desarrollo.
-
+![image.png](imagen2.png)
 # ejercicios
 
 ## ejercicio 1: manejo avanzado de ramas y resolucion de conflictos
