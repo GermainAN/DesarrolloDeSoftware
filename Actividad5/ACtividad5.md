@@ -213,5 +213,3 @@ Para evitar conflictos en Git, utilizar **ramas separadas** para cada tarea, rea
 ## 7. creamos una nueva rama feature-3
 
 ![image.png](Imagenes/image%2038.png)
-
-##
