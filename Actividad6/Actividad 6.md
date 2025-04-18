@@ -146,7 +146,7 @@ el `git cherry-pick`  permite mover commits especificos de una rama a la otra ra
 
 ## se crea la carpeta `scrum-workflw`
 
-![image.png](image%2016.png)
+![image.png](Imagen/image%2016.png)
 
 ![image.png](Imagen/image%2017.png)
 
