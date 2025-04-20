@@ -5,7 +5,7 @@
 - [Actividad 4](Actividad4/Actividad4/Actividad4.md)
 - [Actividad 5](Actividad5/ACtividad5.md)
 - [Actividad 6](Actividad6/Actividad%206.md)
-
+- [Actividad 7](Actividad7/Actividad7.md)
 
 # Prueba de entrada
 
