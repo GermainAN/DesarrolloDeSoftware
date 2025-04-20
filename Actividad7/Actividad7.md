@@ -1,6 +1,6 @@
 # actividad 7
 ---
-[Repositorio de Actividad 7](https://github.com/GermainAN/ACtividad7.git)
+[Link: Repositorio de Actividad 7](https://github.com/GermainAN/ACtividad7.git)
 ---
 # 1. configuramos la carpeta de trabajo
 
