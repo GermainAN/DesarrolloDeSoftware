@@ -7,7 +7,7 @@
 - [Actividad 6](Actividad6/Actividad%206.md)
 - [Actividad 7](Actividad7/Actividad7.md)
 - [Actividad 8](Actividad8/Actividad8.md)
-
+- [Actividad 10](Actividad10/Actividad10.md)
 # Prueba de entrada
 
 [Prueba de entrada](https://github.com/GermainAN/Prueba_de_entrada.git)
