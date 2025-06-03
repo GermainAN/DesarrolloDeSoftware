@@ -9,7 +9,7 @@
 - [Actividad 8](Actividad8/Actividad8.md)
 - [Actividad 10](Actividad10/Actividad10.md)
 - [Actividad 11](Actividad11/Actividad11.md)
-- [Actividad 11](Actividad17/Actividad17.md)
+- [Actividad 17](Actividad17/Actividad17.md)
 
 # Prueba de entrada
 
